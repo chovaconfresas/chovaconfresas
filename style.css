@@ -1,0 +1,19 @@
+img{
+    float: left;
+}
+
+body {
+       color: rgb(116, 78, 43);
+       background: rgb(43, 32, 17);
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+   }
+   h2{
+       text-align: center;
+       color: rgb(233, 200, 139);
+       font-size: 18px;
+       font-weight: 400;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+   }
+   body {
+       background-color:#f2dcc4 
+   }
